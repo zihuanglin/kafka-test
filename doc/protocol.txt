@@ -1,0 +1,30 @@
+{
+	 index:value,
+	 threadCount:value,
+	 fileName:value,
+	 command:{
+		script:value,
+		num-records:value,
+		throughput:value,
+		topic:value,
+		payload-file:value,
+		producer-props:{
+			bootstrap.servers:
+			batch.size:
+			linger.ms:
+			buffer.memory:
+			compression.type:
+		}
+	}
+}
+
+
+
+{
+
+
+
+
+
+
+}
